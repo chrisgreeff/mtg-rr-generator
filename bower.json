@@ -1,0 +1,17 @@
+{
+  "name": "mtg-rr-generator",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Chris Greeff <chris.r.greeff@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chrisgreeff/mtg-rr-generator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
