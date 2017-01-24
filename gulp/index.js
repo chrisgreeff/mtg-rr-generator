@@ -1,6 +1,5 @@
 'use strict'
 
-import gulp from 'gulp'
 import fs from 'fs'
 import _ from 'lodash'
 import scriptFilter from './utils/script-filter'

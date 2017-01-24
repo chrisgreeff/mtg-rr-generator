@@ -2,10 +2,11 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
+import NoPlayersInput from './components/no-players-input.jsx'
 
 ReactDOM.render(
   <div>
-    <h1>Enter Player Name</h1>
+    <NoPlayersInput />
   </div>,
   document.getElementById('app')
 )

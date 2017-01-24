@@ -4,5 +4,5 @@ import gulp from 'gulp'
 import runSequence from 'run-sequence'
 
 gulp.task('build', () => {
-  return runSequence(['fonts', 'html', 'styles', 'webpack'])
+  return runSequence(['fonts', 'standard', 'html', 'styles', 'webpack'])
 })
