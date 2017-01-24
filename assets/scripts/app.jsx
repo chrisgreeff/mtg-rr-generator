@@ -4,6 +4,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 ReactDOM.render(
-  <h1>Hello World</h1>,
+  <div>
+    <h1>Enter Player Name</h1>
+  </div>,
   document.getElementById('app')
 )

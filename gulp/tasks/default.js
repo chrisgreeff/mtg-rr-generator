@@ -3,4 +3,4 @@
 import gulp from 'gulp'
 import runSequence from 'run-sequence'
 
-gulp.task('default', () => runSequence('clean', 'build'))
+gulp.task('default', () => runSequence('clean', 'build', 'watch'))
